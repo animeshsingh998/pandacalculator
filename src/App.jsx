@@ -31,7 +31,7 @@ function App() {
 
   return (
     <div className="calculatorPage">
-      <h1>PANDA CALCULATOR</h1>
+      <h1>ANIMESH CALCULATOR</h1>
       <div className="calculator">
         <div className="display">{calc.length > 0 ? calc : 0}</div>
         <div className="btnRow bigBtn">
